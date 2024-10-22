@@ -1,8 +1,11 @@
 # flutter_application_1
 
-#This is homework3 of csen268 by Yuming Zhao
-#Pages are in  the folder 'libs'
-#Thank you for your patience!
+This is homework3 of csen268 by Yuming Zhao  
+
+Pages are in  the folder 'libs'  
+
+Thank you for your patience!  
+
 
 ## Getting Started
 
