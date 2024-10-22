@@ -1,6 +1,8 @@
 # flutter_application_1
 
-A new Flutter project.
+This is homework3 of csen268 by Yuming Zhao
+Pages are in  the folder 'libs'
+Thank you for your patience!
 
 ## Getting Started
 
